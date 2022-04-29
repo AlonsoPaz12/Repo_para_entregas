@@ -6,6 +6,43 @@ h1{
     
 }
 
+#tipo_letra{
+    font-family:'Times New Roman', Times, serif;
+    color: yellow;
+}
+
 body{
     background-color: rgb(235, 231, 231);
+    padding-left: 60px;
+    padding-right: 100px;
+}
+
+.table{
+    background-color: white;
+    border: solid;
+    border-width: 0.3em;
+    margin-left: 60px;
+}
+
+.table-header{
+    border: solid;
+    border-width: 0.8em;
+    border-color: black;
+    background-color: skyblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.par{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.impar{
+    background-color: rgb(233, 227, 227);
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.col-final{
+    color: blue;
+    text-decoration: underline;
 }
