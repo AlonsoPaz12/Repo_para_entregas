@@ -46,3 +46,17 @@ body{
     color: blue;
     text-decoration: underline;
 }
+
+.button{
+    padding-top: 20px;
+    padding-left: 60px;
+}
+
+#button-left{
+    background-color: skyblue;
+}
+
+#button-right{
+    background-color: burlywood;
+    padding-left: 10px;
+}
